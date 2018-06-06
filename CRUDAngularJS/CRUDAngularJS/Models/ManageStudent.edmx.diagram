@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="80293c7ccddc408ea48a514d8eff991a" Name="Diagram1">
+        <EntityTypeShape EntityType="MyDemoModel.CityList" Width="1.5" PointX="4.875" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDemoModel.qualification" Width="1.5" PointX="7.125" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDemoModel.role" Width="1.5" PointX="9.375" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="MyDemoModel.student" Width="1.5" PointX="2.625" PointY="0.875" IsExpanded="true" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
